@@ -1,0 +1,33 @@
+_repo: Chip-of-the-Flying-U_9267
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, Bertha Muzzy
+    - Sinclair, B. M. (Bertha Muzzy)
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: Chip Bennett of the Flying U Ranch in Montana can handle a rowdy horse
+  and a rowdy bunkhouse, but what he can't handle is women. That is, until Dr. Della
+  Whitmore arrives at the ranch and brings out a side of him that no one's ever seen.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2005-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranch life -- Fiction'
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- !lcsh 'Cowboys -- Fiction'
+- !lcsh 'Montana -- Fiction'
+- GITenberg
+title: Chip, of the Flying U
+url: http://www.gutenberg.org/ebooks/9267
